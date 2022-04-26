@@ -11,6 +11,16 @@ Een nieuw project aanmaken:
 - ng new apm-new --prefix pm
 Would you like to add Angular routing?
 
+ng g c products/product-detail --flat
+Your global Angular CLI version (13.3.3) is greater than your local version (12.0.3). The local Angular CLI version is used.
+
+To disable this warning use "ng config -g cli.warnings.versionMismatch false".
+CREATE src/app/products/product-detail.component.html (29 bytes)
+CREATE src/app/products/product-detail.component.spec.ts (676 bytes)
+CREATE src/app/products/product-detail.component.ts (305 bytes)
+CREATE src/app/products/product-detail.component.css (0 bytes)
+UPDATE src/app/app.module.ts (841 bytes)
+
 
 ## Code scaffolding
 
