@@ -28,7 +28,8 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "src/api"
+              //HIermee wordt de json file gevonden
+              "src/api" 
             ],
             "styles": [
               "src/styles.css"
