@@ -5,6 +5,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+hiervoor eerst de angular cli installeren via: 
+- npm install -g @angular/cli
+Een nieuw project aanmaken:
+- ng new apm-new --prefix pm
+Would you like to add Angular routing?
+
 
 ## Code scaffolding
 
@@ -25,3 +31,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+font installeren:
+npm install bootstrap font-awesome (negeer jquery meldingen omdat we alleen font gebruiken)
