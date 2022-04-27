@@ -21,6 +21,8 @@ CREATE src/app/products/product-detail.component.ts (305 bytes)
 CREATE src/app/products/product-detail.component.css (0 bytes)
 UPDATE src/app/app.module.ts (841 bytes)
 
+Implement guard:
+ng g g products/productdetail
 
 ## Code scaffolding
 
