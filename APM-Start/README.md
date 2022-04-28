@@ -21,6 +21,9 @@ CREATE src/app/products/product-detail.component.ts (305 bytes)
 CREATE src/app/products/product-detail.component.css (0 bytes)
 UPDATE src/app/app.module.ts (841 bytes)
 
+ng g m product/product --flat -m app
+ng (angular cli) g (generate) m (module) product/product --flat (geen nieuwe folder) -m app (add to imports array)
+
 Implement guard:
 ng g g products/productdetail
 
